@@ -1,0 +1,6 @@
+{
+ "origin": "DeconstruCT.F 2021 - Reject humanity return to libc",
+ "technique": ["ret2libc"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

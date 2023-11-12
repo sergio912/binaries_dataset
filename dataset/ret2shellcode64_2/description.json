@@ -1,0 +1,6 @@
+{
+ "origin": "HTBCyberSanta2021 - Sleigh",
+ "technique": ["ret2shellcode"],
+ "vulnerability": ["buffer overflow","memory leak"],
+ "segment": "stack"
+}

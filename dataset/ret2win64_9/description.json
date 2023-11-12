@@ -1,0 +1,6 @@
+{
+ "origin": "dctf2021 - pwn sanity check",
+ "technique": ["ret2win"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

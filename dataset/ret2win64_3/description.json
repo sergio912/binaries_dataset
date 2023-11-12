@@ -1,0 +1,6 @@
+{
+ "origin": "nahamconCTF 2022",
+ "technique": ["ret2win"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

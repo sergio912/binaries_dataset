@@ -1,0 +1,6 @@
+{
+ "origin": "Cyber Apocalypse CTF 2022: Intergalactic Chase - Fleet Management",
+ "technique": ["ret2shellcode"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

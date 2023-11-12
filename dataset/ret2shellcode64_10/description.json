@@ -1,0 +1,6 @@
+{
+ "origin": "custom created",
+ "technique": ["ret2shellcode"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

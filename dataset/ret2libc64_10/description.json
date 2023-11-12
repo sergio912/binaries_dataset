@@ -1,0 +1,6 @@
+{
+ "origin": "Lexington Informatics Tournament CTF 2021 - Editor",
+ "technique": ["ret2libc"],
+ "vulnerability": ["buffer overflow","memory leak"],
+ "segment": "stack"
+}

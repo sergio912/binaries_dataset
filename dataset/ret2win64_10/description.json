@@ -1,0 +1,6 @@
+{
+ "origin": "created for this dataset by sergio",
+ "technique": ["ret2win"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

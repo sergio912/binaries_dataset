@@ -1,0 +1,6 @@
+{
+ "origin": "San Diego CTF 2022 - OilSpill",
+ "technique": ["format string","GOT overwrite"],
+ "vulnerability": ["format string","memory leak"],
+ "segment": "stack"
+}

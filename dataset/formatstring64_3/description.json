@@ -1,0 +1,7 @@
+{
+ "origin": "Custom created",
+ "description":"To exploit ths binary the attacker needs to overwrite a GOT entry with the address of a oneshot gadget in libc. To perform the overwrite, the attacker uses the format string technique.",
+ "technique": ["format string", "GOT overwrite"],
+ "vulnerability": ["format string"],
+ "segment": "stack"
+}

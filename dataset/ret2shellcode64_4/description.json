@@ -1,0 +1,7 @@
+{
+ "origin": "custom created",
+ "description": "There are no leaks, but the buffer is global, so the address of the buffer is static",
+ "technique": ["ret2shellcode"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

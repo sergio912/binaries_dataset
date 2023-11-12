@@ -1,0 +1,7 @@
+{
+ "origin": "Custom created",
+ "description":"To exploit this binary, attackers need to overwrite a GOT entry with the win function.",
+ "technique": ["format string","GOT overwrite"],
+ "vulnerability": ["format string"],
+ "segment": "stack"
+}

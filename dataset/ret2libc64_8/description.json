@@ -1,0 +1,6 @@
+{
+ "origin": "Cyber Santa is Coming to Town - Naughty List",
+ "technique": ["ret2libc"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

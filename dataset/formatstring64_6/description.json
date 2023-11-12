@@ -1,0 +1,6 @@
+{
+ "origin": "Access denied 2022 CTF - Format",
+ "technique": ["format string"],
+ "vulnerability": ["format string"],
+ "segment": "stack"
+}

@@ -1,0 +1,6 @@
+{
+ "origin": "b01lers CTF bootcamp",
+ "technique": ["ret2win"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

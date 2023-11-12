@@ -1,0 +1,7 @@
+{
+ "origin": "custom created",
+ "description": "Use the format string to leak a stack address. Then jump to shellcode on the buffer.",
+ "technique": ["ret2shellcode"],
+ "vulnerability": ["buffer overflow","format string","memory leak"],
+ "segment": "stack"
+}

@@ -1,0 +1,6 @@
+{
+ "origin": "TokyoWesterns CTF 6th 2020 - Blind Shot",
+ "technique": ["format string"],
+ "vulnerability": ["format string"],
+ "segment": "stack"
+}

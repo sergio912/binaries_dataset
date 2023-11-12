@@ -1,0 +1,7 @@
+{
+ "origin": "Custom created",
+ "description":"To exploit this binary the attacker needs to leak the canary and libc by using a format string and then perform a ret2libc attack bypassing the canary protection.",
+ "technique": ["ret2libc","format string"],
+ "vulnerability": ["buffer overflow","format string","memory leak"],
+ "segment": "stack"
+}

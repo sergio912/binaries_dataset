@@ -1,0 +1,7 @@
+{
+ "origin": "custom created",
+ "description":"To exploit this binary we perform a buffer overflow two times. First to leak a libc address to calculate where the system function and /bin/sh string are located, this was done by calling the function printf. Then another buffer overflow to call the system function with the /bin/sh argument.",
+ "technique": ["ret2libc"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

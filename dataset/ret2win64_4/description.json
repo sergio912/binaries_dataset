@@ -1,0 +1,6 @@
+{
+ "origin": "DownUnderCTF 2021",
+ "technique": ["ret2win"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

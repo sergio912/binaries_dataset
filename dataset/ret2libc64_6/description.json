@@ -1,0 +1,6 @@
+{
+ "origin": "Cyber Apocalypse CTF 2022: Intergalactic Chase - Space Pirate: Retribution",
+ "technique": ["ret2libc"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

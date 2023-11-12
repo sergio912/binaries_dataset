@@ -1,0 +1,6 @@
+{
+ "origin": "https://ropemporium.com/challenge/ret2win.html",
+ "technique": ["ret2win"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

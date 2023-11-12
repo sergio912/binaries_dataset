@@ -1,0 +1,6 @@
+{
+ "origin": "NahamCon CTF 2020 - Leet Haxor",
+ "technique": ["format string"],
+ "vulnerability": ["format string"],
+ "segment": "stack"
+}

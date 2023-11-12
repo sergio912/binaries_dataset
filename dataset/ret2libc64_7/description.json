@@ -1,0 +1,6 @@
+{
+ "origin": "tjctf 2022 - vacation-2",
+ "technique": ["ret2libc"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

@@ -1,0 +1,6 @@
+{
+ "origin": "redpwnCTF 2020 - coffer overflow 2",
+ "technique": ["ret2win"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

@@ -1,0 +1,6 @@
+{
+ "origin": "https://github.com/Diego-AltF4/PwnCtfTool/blob/main/Example_binaries/Example1/vuln1",
+ "technique": ["ret2win"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

@@ -1,0 +1,7 @@
+{
+ "origin": "Custom created",
+ "description":"This binary contains a format string bug. If the global_var variable which is global is set to 0x1337, then a shell is open. Attacker needs to exploit the format string to write the global_var with 0x1337 to get a shell.",
+ "technique": ["format string"],
+ "vulnerability": ["format string"],
+ "segment": "stack"
+}

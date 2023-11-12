@@ -1,0 +1,7 @@
+{
+ "origin": "Custom created",
+ "description":"To exploit this binary, attackers need to overwrite the stack return address with a oneshot gadget at libc. Attacker needs to find which oneshot works.",
+ "technique": ["format string","Stack return address overwrite"],
+ "vulnerability": ["format string"],
+ "segment": "stack"
+}

@@ -1,0 +1,6 @@
+{
+ "origin": "ctf-interno.xstf",
+ "technique": ["ret2win"],
+ "vulnerability": ["buffer overflow"],
+ "segment": "stack"
+}

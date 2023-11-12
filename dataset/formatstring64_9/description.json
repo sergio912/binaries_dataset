@@ -1,0 +1,6 @@
+{
+ "origin": "DownUnderCTF 2020 - my first echo server",
+ "technique": ["format string"],
+ "vulnerability": ["format string"],
+ "segment": "stack"
+}
